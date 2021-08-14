@@ -1,0 +1,19 @@
+{
+  "name": "@fycosmos/eslint-config",
+  "version": "1.0.2",
+  "description": "eslint config for fy-team",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "npm publish --access public"
+  },
+  "author": "fy",
+  "license": "ISC",
+  "peerDependencies": {
+    "eslint": ">=7"
+  },
+  "dependencies": {
+    "eslint": "^7.32.0"
+  },
+  "devDependencies": {},
+  "keywords": []
+}
